@@ -1,1 +1,1 @@
-# hot_hand_effect
+# Basketball Hot Hand Analysis
